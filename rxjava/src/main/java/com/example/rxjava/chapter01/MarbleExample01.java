@@ -1,6 +1,7 @@
 package com.example.rxjava.chapter01;
 
-import io.reactivex.rxjava3.core.Observable;
+
+import io.reactivex.Observable;
 
 public class MarbleExample01 {
     public static void main(String[] args){

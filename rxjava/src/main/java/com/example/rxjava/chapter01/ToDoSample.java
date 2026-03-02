@@ -1,7 +1,8 @@
 package com.example.rxjava.chapter01;
 
-import io.reactivex.rxjava3.core.Observable;
-import io.reactivex.rxjava3.schedulers.Schedulers;
+
+import io.reactivex.Observable;
+import io.reactivex.schedulers.Schedulers;
 
 public class ToDoSample {
     public static void main(String[] args) throws InterruptedException{

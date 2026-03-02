@@ -1,6 +1,7 @@
 package com.example.rxjava.chapter03;
 
-import io.reactivex.rxjava3.processors.PublishProcessor;
+
+import io.reactivex.processors.PublishProcessor;
 
 public class HotPublisherExample {
     public static void main(String[] args){

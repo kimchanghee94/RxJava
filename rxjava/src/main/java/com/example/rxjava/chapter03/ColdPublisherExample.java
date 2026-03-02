@@ -1,6 +1,7 @@
 package com.example.rxjava.chapter03;
 
-import io.reactivex.rxjava3.core.Flowable;
+
+import io.reactivex.Flowable;
 
 public class ColdPublisherExample {
     public static void main(String[] args){
