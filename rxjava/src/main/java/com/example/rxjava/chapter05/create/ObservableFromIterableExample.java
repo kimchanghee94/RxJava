@@ -1,10 +1,9 @@
-package com.example.rxjava.chapter05;
+package com.example.rxjava.chapter05.create;
 
 import com.example.rxjava.utils.LogType;
 import com.example.rxjava.utils.Logger;
 import io.reactivex.Observable;
 
-import java.time.LocalTime;
 import java.util.Arrays;
 import java.util.List;
 
