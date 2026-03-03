@@ -7,6 +7,7 @@ public class Car {
     private int carPrice;
     private boolean isNew;
 
+    public Car(){}
     public Car(String carName){
         this.carName = carName;
     }
